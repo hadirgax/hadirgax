@@ -55,6 +55,8 @@ You can find me on:
 ![CLion](https://img.shields.io/badge/CLion-%23ffffff.svg?logo=CLion&logoColor=000&style=flat)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%23ffffff.svg?logo=windowsterminal&logoColor=4D4D4D&style=flat)
 ![Git](https://img.shields.io/badge/Git-%23ffffff.svg?logo=git&logoColor=f05032&style=flat)
+![Github](https://img.shields.io/badge/Github-%23ffffff.svg?logo=github&logoColor=181717&style=flat)
+![Gitlab](https://img.shields.io/badge/Gitlab-%23ffffff.svg?logo=gitlab&logoColor=FCA121&style=flat)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-%23ffffff.svg?logo=microsoftexcel&logoColor=217346&style=flat)
 
 <br>
