@@ -8,7 +8,7 @@ You can find me on:
 - Twitter as [@hadirga](https://twitter.com/hadirga)
 - GitHub as [@hadirga](https://github.com/hadirga)
 - LinkedIn as [@hadirga](https://linkedin.com/in/hadirga)
-- Instagram as [@hadir.ga](https://instagram.com/hadirga)
+- Instagram as [@hadir.ga](https://instagram.com/hadir.ga)
 
 ## Some Technologies and Tools:
 
