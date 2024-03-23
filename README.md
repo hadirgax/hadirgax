@@ -4,11 +4,11 @@ I'm interested in web development, operations research and optimization models f
 
 You can find me on:
 
-- My website [hadir.ga](https://hadir.ga/)
-- Twitter as [@hadirga](https://twitter.com/hadirga)
-- GitHub as [@hadirga](https://github.com/hadirga)
-- LinkedIn as [@hadirga](https://linkedin.com/in/hadirga)
-- Instagram as [@hadir.ga](https://instagram.com/hadir.ga)
+- My website [hadir.ga](https://hadirgax.com/)
+- Twitter as [@hadirga](https://twitter.com/hadirgax)
+- GitHub as [@hadirga](https://github.com/hadirgax)
+- LinkedIn as [@hadirga](https://linkedin.com/in/hadirgax)
+- Instagram as [@hadir.ga](https://instagram.com/hadirgax)
 
 ## Some Technologies and Tools:
 
