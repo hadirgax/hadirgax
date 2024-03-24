@@ -6,7 +6,7 @@ You can find me on:
 
 - GitHub as [@hadirgax](https://github.com/hadirgax)
 - Instagram as [@hadirgax](https://instagram.com/hadirgax)
-- LinkedIn as [in/hadirga](https://linkedin.com/in/hadirgax)
+- LinkedIn as [in/hadirgax](https://linkedin.com/in/hadirgax)
 - My website [hadirgax.com](https://hadirgax.com/)
 - Twitter as [@hadirgax](https://twitter.com/hadirgax)
 
