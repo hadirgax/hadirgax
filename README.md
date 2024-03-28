@@ -2,15 +2,8 @@
 
 I'm interested in web development, operations research and optimization modeling.
 
-You can find me on:
 
-- GitHub as [@hadirgax](https://github.com/hadirgax)
-- Instagram as [@hadirgax](https://instagram.com/hadirgax)
-- LinkedIn as [in/hadirgax](https://linkedin.com/in/hadirgax)
-- My website [hadirgax.com](https://hadirgax.com/)
-- Twitter as [@hadirgax](https://twitter.com/hadirgax)
-
-## Some Technologies and Tools:
+## Some Technologies and Tools
 
 ![Python](https://img.shields.io/badge/Python-%23ffffff.svg?logo=Python&logoColor=3776ab&style=flat)
 ![C++](https://img.shields.io/badge/C++-%23ffffff.svg?logo=cplusplus&logoColor=00599c&style=flat)
