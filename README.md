@@ -1,7 +1,4 @@
-## Hello, I'm [@hadirgax](https://linkedin.com/in/hadirgax) (Hadir Garcia) 👋
-
-I'm interested in web development, operations research and optimization modeling.
-
+## Hello there👋
 
 ## Some Technologies and Tools
 
