@@ -1,6 +1,4 @@
-## Hello there👋
-
-## Some Technologies and Tools
+## My toolbox contains:
 
 ![Python](https://img.shields.io/badge/Python-%23ffffff.svg?logo=Python&logoColor=3776ab&style=flat)
 ![C++](https://img.shields.io/badge/C++-%23ffffff.svg?logo=cplusplus&logoColor=00599c&style=flat)
