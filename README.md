@@ -33,5 +33,5 @@
 --->
 
 <a href="https://github.com/hadirgax">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hadirgax&show_icons=true&include_all_commits=true&theme=material-palenight" alt="hadirgax's github stats" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=hadirgax&show_icons=true&include_all_commits=true&theme=material-palenight" alt="hadirgax's github stats" />
 </a>
